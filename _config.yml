@@ -1,6 +1,6 @@
 title: Haitham Qudaih
 description: "Lead engineer at tajawal — tech guy with an entrepreneurial spirit and knack for getting things done"
-url: "http://haithamq.github.io"
+url: "https://haithamq.github.io"
 author: "Haitham Qudaih"
 keywords: "haitham,haitham qudaih,code,javascript,php,databases,entrepreneurship,startups,react,angular,javascript"
 github: haithamq
@@ -51,15 +51,15 @@ featured:
 
 about:
   - name: Github
-    username: haithamqa
-    url: https://github.com/haithamqa
+    username: haithamq
+    url: https://github.com/haithamq
     class: github
   - name: Medium
     username:
     url:
     class:
   - name: Twitter
-    username:
+    username: heetho_fs
     url:
     class:
   - name: Email
