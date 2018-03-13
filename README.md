@@ -4,5 +4,6 @@
 
 # contact
 * [haithamqdaih@gmail.com](mailto:haithamqdaih@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/haithamqudaih/)
 * [Twitter](https://www.twitter.com/heetho_fs)
 * [Github](https://www.github.com/haithamq)
