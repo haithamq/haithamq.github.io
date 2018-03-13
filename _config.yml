@@ -54,14 +54,14 @@ about:
     username: haithamq
     url: https://github.com/haithamq
     class: github
-  - name: Medium
-    username:
-    url:
-    class:
+  - name: Linkedin
+    username: haithamqudaih
+    url: https://www.linkedin.com/in/haithamqudaih/
+    class:linkedin
   - name: Twitter
     username: heetho_fs
-    url:
-    class:
+    url: https://www.twitter.com/heetho_fs
+    class: twitter
   - name: Email
     username: haithamqdaih@gmail.com
     class: email
