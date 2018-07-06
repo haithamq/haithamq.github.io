@@ -11,7 +11,7 @@ Let’s Have a look at how RabbitMQ works and what kind of components it contain
 
   
 
-##Here’s how it works:  
+## Here’s how it works:
 
 **Producers** send/publish the messages to the broker -> **Consumers** receive the messages from the broker. RabbitMQ acts a communication middleware between both **producers** and **consumers** even if they run on different machines.
 
@@ -56,7 +56,7 @@ Sending messages to multiple queues exchange is connected to the queues by the b
   
   
   
-  ##Type of exchange:
+  ## Type of exchange:
  
   | EXCHANGE TYPE | BEHAVIOUR |
   | --- | --- |
@@ -66,7 +66,7 @@ Sending messages to multiple queues exchange is connected to the queues by the b
   | Fanout | The routing and binding keys are ignored - all published messages go to all bound queues. |
  
 
- ##Let’s Sum up the core concept!
+ ## Let’s Sum up the core concept!
 
  * **Producers** emits the messages to **exchange**.
  * **Consumers** receive messages from the **queues**.
@@ -76,7 +76,7 @@ Sending messages to multiple queues exchange is connected to the queues by the b
  * Exchange type: **fanout, direct, topic** and **header**.
  
  
- ##Why RabbitMQ ?
+ ## Why RabbitMQ ?
 
 * You might need messaging if … you need to scale.
 * You might need messaging if … you need to monitor data feeds.
