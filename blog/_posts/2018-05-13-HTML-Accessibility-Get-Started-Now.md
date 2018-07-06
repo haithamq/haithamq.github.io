@@ -9,7 +9,7 @@ Providing the user a good way to navigate and interact with your site. Make your
 Making an HTML semantic is a helpful way to give a user an easy way to navigate to your website and interact more with it. The code will be readable and understandable for the users.
 
   
-* **Get Started!**  
+**Get Started!**  
 
 When I started developing my first web page, My only concern was to get the content online. I didn’t focus on the usability, functionality, performance, accessibility, and UX.
  
@@ -22,7 +22,7 @@ When I started developing my first web page, My only concern was to get the cont
  In this post, I will be giving some tips and examples that need to keep in mind for accessibility tips.
  
  
- * **lang [set the HTML language]**  
+  **lang [set the HTML language]**  
 
 By defining the language on your document that will make it easy for the browser that which language you are using and its good in in terms of SEO.
 
@@ -50,7 +50,7 @@ You need to make sure to use the correct term of the language.
 
  
   
-* **hidden [using a hidden attribute]**  
+ **hidden [using a hidden attribute]**  
   
   
 Using a hidden attribute in **CSS** to hide the content from the reader if you want!.
@@ -66,7 +66,7 @@ But this attribute will not work with IE10 and lower .
   
   
   
-* **alt [adding alt attribute to the img tags]**  
+ **alt [adding alt attribute to the img tags]**  
   
   
  Using the **alt** attribute in the image will give a good description of it and will help the SEO especially when its added as content.  
@@ -92,7 +92,7 @@ So by setting this attribute to an empty string that indicates the image is not 
 
 
  
- * **button [you need a button ? then use a button]**
+  **button [you need a button ? then use a button]**
 
 If you need to create a button in html you can use `<button >` Tag and do not use `<p>` tag.
 
@@ -102,7 +102,7 @@ If you need to create a button in html you can use `<button >` Tag and do not us
 
 ```
 
-**why should we use the button element?**
+* **why should we use the button element?**
 
 Using the button elements is good for
 
