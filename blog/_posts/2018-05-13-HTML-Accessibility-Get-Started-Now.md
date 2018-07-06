@@ -9,6 +9,7 @@ Providing the user a good way to navigate and interact with your site. Make your
 Making an HTML semantic is a helpful way to give a user an easy way to navigate to your website and interact more with it. The code will be readable and understandable for the users.
 
   
+
 **Get Started!**  
 
 When I started developing my first web page, My only concern was to get the content online. I didn’t focus on the usability, functionality, performance, accessibility, and UX.
